@@ -57,11 +57,7 @@ This enables the solver to prioritize the most promising states while reducing u
 
 ```
 .
-├── main.py
-├── solver.py
-├── gui.py
-├── assets/
-├── screenshots/
+├──tango_animated_agent.py
 └── README.md
 ```
 
