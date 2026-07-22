@@ -116,6 +116,12 @@ This project strengthened my understanding of:
 
 ## 📷 Screenshots
 
+<img width="871" height="852" alt="Screenshot 2026-05-27 000706" src="https://github.com/user-attachments/assets/337790d5-4abf-47cb-866c-a9c9fe968743" />
+
+<img width="861" height="853" alt="Screenshot 2026-05-27 000822" src="https://github.com/user-attachments/assets/a945f49c-186a-4cfc-96ec-2cada8a80354" />
+
+<img width="860" height="856" alt="Screenshot 2026-05-27 001101" src="https://github.com/user-attachments/assets/a387e8e4-45ab-4651-8256-85571c09c63f" />
+
 <img width="438" height="875" alt="Screenshot 2026-05-27 001348" src="https://github.com/user-attachments/assets/e530c926-edae-4f42-b206-4c8856dc61bf" />
 
 ---
