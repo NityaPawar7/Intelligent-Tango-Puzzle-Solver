@@ -66,24 +66,13 @@ This enables the solver to prioritize the most promising states while reducing u
 
 ## 🚀 How to Run
 
-1. Clone the repository
+## 🚀 Running the Project
 
-```bash
-git clone https://github.com/NityaPawar7/a-star-tango-solver.git
-```
-
-2. Navigate to the project directory
-
-```bash
-cd a-star-tango-solver
-```
-
-3. Run the application
-
-```bash
-python main.py
-```
-
+1. Clone or download the repository.
+2. Open the project in your preferred Python IDE (VS Code, PyCharm, etc.).
+3. Ensure Python 3.x is installed.
+4. Install any required dependencies (if applicable).
+5. Run the main application file (`tango_animated_agent.py`).
 ---
 
 ## 📊 Concepts Demonstrated
