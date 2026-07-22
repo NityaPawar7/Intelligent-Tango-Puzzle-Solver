@@ -65,7 +65,6 @@ This enables the solver to prioritize the most promising states while reducing u
 └── README.md
 ```
 
-*(Update the structure according to your project.)*
 
 ---
 
@@ -117,12 +116,7 @@ This project strengthened my understanding of:
 
 ## 📷 Screenshots
 
-Add screenshots of:
-
-- Initial puzzle
-- Solving process
-- Final solved puzzle
-- GUI interface
+<img width="438" height="875" alt="Screenshot 2026-05-27 001348" src="https://github.com/user-attachments/assets/e530c926-edae-4f42-b206-4c8856dc61bf" />
 
 ---
 
